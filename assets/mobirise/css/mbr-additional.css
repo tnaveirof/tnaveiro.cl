@@ -843,6 +843,29 @@ a {
 .cid-txTjwSIHRx .mbr-section-btn {
   text-align: center;
 }
+.cid-txTjwSIHRx .mbr-section-title {
+  text-align: center;
+}
+.cid-txTjwSIHRx .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-udIFqi5wGs {
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+  background-image: url("../../../assets/images/background5-1.jpeg");
+}
+.cid-udIFqi5wGs .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-udIFqi5wGs .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
 .cid-txTdf7A1eT {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -1144,7 +1167,7 @@ a {
 }
 .cid-t8B0B0P4kW .dropdown-menu,
 .cid-t8B0B0P4kW .navbar.opened {
-  background: #000000 !important;
+  background: #bbbbbb !important;
 }
 .cid-t8B0B0P4kW .nav-item:focus,
 .cid-t8B0B0P4kW .nav-link:focus {
@@ -1178,7 +1201,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(0, 0, 0, 0.1);
+  background: rgba(187, 187, 187, 0.5);
 }
 .cid-t8B0B0P4kW .navbar.opened {
   transition: all 0.3s;
@@ -1318,7 +1341,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-t8B0B0P4kW .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #000000;
+  background: #bbbbbb;
 }
 .cid-t8B0B0P4kW .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
